@@ -1,15 +1,10 @@
-### Hi there 👋
+Hi there 👋 I'm Luthfi Ardiansyah
 
-
-**luthfiardiansyah01/luthfiardiansyah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying on Telkom University
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Currently a graduate and has studied at Telkom University.
+🌱 Passionate about technology, immersive learning, and software development
+👯 Open to collaborating on projects related to AR/VR, AI, and digital transformation
+🤔 Looking for insights in startup development, product innovation, and scalable systems
+💬 Feel free to ask me about information systems, immersive technologies, or entrepreneurship
+📫 Reach me at: metaversetelyu@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy blending creativity, tech, and education to build impactful solutions
